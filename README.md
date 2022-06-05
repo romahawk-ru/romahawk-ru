@@ -2,7 +2,9 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Skillbox student from Russia 🇷🇺, frontend development direction</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romahawk-ru)](https://git.io/streak-stats)
+<div>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romahawk-ru)](https://git.io/streak-stats)
+</div>
 
 Briefly about me:
 - 🔭 I am currently freelancing
