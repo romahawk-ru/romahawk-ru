@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Roman</a> 
+<h1 align="center">Hi there, I'm <a href="https://romahawk.ru/" target="_blank">Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Skillbox student from Russia 🇷🇺, frontend development direction</h3>
 
@@ -23,7 +23,6 @@ Briefly about me:
 <h2>I use learning platforms:</h2>
 
 ![Skillbox](https://img.shields.io/badge/Skillbox-3f2aff?style=for-the-badge&logo=SkillboxColor=white)
-
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 <h2>My skills:</h2>
